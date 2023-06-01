@@ -1,0 +1,4 @@
+llama_index
+wikipedia
+huggingface_hub
+transformers
