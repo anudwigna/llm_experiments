@@ -2,3 +2,5 @@ llama_index
 wikipedia
 huggingface_hub
 transformers
+sentence_transformers
+faiss_cpu
