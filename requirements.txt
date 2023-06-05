@@ -4,3 +4,5 @@ huggingface_hub
 transformers
 sentence_transformers
 faiss_cpu
+requests
+bs4
